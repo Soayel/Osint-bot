@@ -1,0 +1,14 @@
+{
+"name": "telegram-info-bot",
+"version": "1.0.0",
+"description": "Modular Telegram bot with Number Info, TG ID Info and Vehicle Info",
+"main": "index.js",
+"scripts": {
+"start": "node index.js"
+},
+"dependencies": {
+"axios": "^1.8.4",
+"dotenv": "^16.4.7",
+"telegraf": "^4.16.3"
+}
+}
